@@ -5,7 +5,7 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "angular": "1.7.4",
+    "angular": "1.7.9",
     "ng-redux": "4.1.0-alpha",
     "redux": "4.0.0",
     "redux-thunk": "2.3.0"
